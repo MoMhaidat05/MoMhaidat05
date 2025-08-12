@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm MoMhaidat05
 
-<!--
-**MoMhaidat05/MoMhaidat05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cybersecurity & Networking Student
 
-Here are some ideas to get you started:
+I'm deeply passionate about cybersecurity and networking, with a strong focus on networking, encryption, and offensive security research. I love building practical tools and exploring advanced network protocols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, C++, HTML, CSS, JavaScript
+- **Frameworks & Libraries:** Tailwind, Bootstrap, Flask
+- **Technologies:** Networking, Git, Wireshark, Linux, Encryption
+
+---
+
+## 🚀 Projects
+
+- **UDBee:** UDP-based reverse shell featuring AES-GCM encryption, packet loss recovery, and covert dummy traffic.
+- **ManageSubscriptions:** Full-stack website (HTML, CSS, JavaScript, Bootstrap, Flask) for managing company subscriptions.
+
+---
+
+## 🏆 Achievements
+
+- **Cyber Security Upskilling Program**  
+  Presented by JODDB & Cyber Shield
+
+---
+
+## 🎯 Interests
+
+When I'm not digging into network packets, I enjoy playing chess, solving CTF challenges, and exploring how real-world security systems can be improved.
+
+---
+
+*Currently no personal website or social media links.*
